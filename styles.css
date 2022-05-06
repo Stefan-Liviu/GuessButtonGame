@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 25px 75px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 22px 22px;
+    cursor: pointer;
+    background-color: rgb(94, 180, 230);
+}
