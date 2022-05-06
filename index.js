@@ -4,7 +4,7 @@ function guessButton(xButton) {
     if (randomButton == xButton) {
          alert("YOU WON!");        
     } else {
-        alert("YOU LOST! The win button:" + randomButton);
+        alert("YOU LOST!");
     }
     location.reload();
 }
