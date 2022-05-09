@@ -1,7 +1,6 @@
-const randomButton = Math.ceil(Math.random() * number);
+const randomButton = Math.ceil(Math.random() * 3);
 
 function guessButton(xButton) {
-    let number = 3;
     if (randomButton == xButton) {
          alert("YOU WON!");        
     } else {
